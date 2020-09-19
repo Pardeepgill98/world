@@ -1,2 +1,2 @@
 # world
-world repo for git command presentation 
+world repo for github presentation
